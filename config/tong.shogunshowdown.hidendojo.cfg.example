@@ -1,0 +1,16 @@
+## Settings file was created by plugin 秘传道场 v0.3.4
+## Plugin GUID: tong.shogunshowdown.hidendojo
+
+[General]
+Enabled = true
+护命 = true
+万能刷新 = true
+霸道式不耗回合 = true
+
+## 商店购买、武器升级、解锁和付费服务免除支付
+# Setting type: Boolean
+# Default value: true
+免费消费 = true
+
+[武器等级]
+# 0 原式 / 1 试炼式 / 2 传承式 / 3 霸道式

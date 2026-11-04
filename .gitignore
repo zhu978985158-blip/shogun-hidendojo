@@ -1,0 +1,10 @@
+.DS_Store
+**/bin/
+**/obj/
+**/__pycache__/
+*.py[cod]
+*.dll
+*.pdb
+*.log
+/backups/
+/game-libs/
